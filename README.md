@@ -1,4 +1,4 @@
-# This project is game of tic tac for fun with our friend this multiplayer game and you can also play with AI which based on  minimax algorithm here the referce of algorithm
+ This project is game of tic tac for fun with our friend this multiplayer game and you can also play with AI which based on  minimax algorithm here the referce of algorithm
 # https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
 # s://www.javatpoint.com/mini-max-algorithm-in-ai
 # https://www.educba.com/minimax-algorithm/
